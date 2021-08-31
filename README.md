@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbas0v&label=Profile%20views&color=0e75b6&style=flat" alt="abbas0v" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_abbas0v_" target="blank"><img src="https://img.shields.io/twitter/follow/_abbas0v_?logo=twitter&style=for-the-badge" alt="_abbas0v_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/musa_abbasov" target="blank"><img src="https://img.shields.io/twitter/follow/musa_abbasov?logo=twitter&style=for-the-badge" alt="musa_abbasov" /></a> </p>
 
 - 🔭 I’m currently working in **NicEye Group**
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://codepen.io/abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abbas0v" height="30" width="40" /></a>
 <a href="https://dev.to/abbas0v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abbas0v" height="30" width="40" /></a>
-<a href="https://twitter.com/_abbas0v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abbas0v_" height="30" width="40" /></a>
+<a href="https://twitter.com/musa_abbasov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musa_abbasov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas0v" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abbas0v" height="30" width="40" /></a>
 <a href="https://fb.com/abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abbas0v" height="30" width="40" /></a>
@@ -41,5 +41,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abbas0v"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abbas0v" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbas0v&show_icons=true&locale=en&layout=compact" alt="abbas0v" /></p>
