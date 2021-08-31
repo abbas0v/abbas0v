@@ -33,7 +33,7 @@
 <a href="https://dribbble.com/abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abbas0v" height="30" width="40" /></a>
 <a href="https://www.behance.net/abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abbas0v" height="30" width="40" /></a>
 <a href="https://medium.com/@abbas0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abbas0v" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnlgddueepvvo3dfhscajzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnlgddueepvvo3dfhscajzq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucnlgddueepvvo3dfhscajzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnlgddueepvvo3dfhscajzq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
