@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **NicEye Group**
 
-- 🌱 I’m currently learning **Vue, Laravel**
+- 🌱 I’m currently learning **Ruby, Docker, Vue**
 
 - 👨‍💻 All of my projects are available at [https://abbas0v.com](https://abbas0v.com)
 
