@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/musa_abbasov" target="blank"><img src="https://img.shields.io/twitter/follow/musa_abbasov?logo=twitter&style=for-the-badge" alt="musa_abbasov" /></a> </p>
 
-- 🔭 I’m currently working in **NicEye Group**
+- 🔭 I’m currently working in **COCONUT GAME**
 
 - 🌱 I’m currently learning **Ruby, Docker, Vue**
 
